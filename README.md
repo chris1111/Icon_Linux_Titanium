@@ -4,4 +4,5 @@ Sharing some Linux Icons that I created.
 
 ### You need an Icon for your distro, please open an issue for your request
 
-![Icon](https://github.com/chris1111/Icon_Linux_Titanium/blob/main/Icon_Linux/Icon.png)
+<img src="Icon_Linux/Icon.png" alt="Github Project" style="width:35%;"> 
+
